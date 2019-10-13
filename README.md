@@ -2,9 +2,8 @@
 
 The shared dataset contains data collected for two different publications. 
 
-1. Mixed Media Dataset is collected for "Source Camera Attribution of Multi-Format Devices".
-2. Long stabilized videos: These are additional data which were specifically captured for 
-"Camera Fingerprint Extraction via Spatial Domain Averaged Frames".
+    1. Mixed Media Dataset is collected for "Source Camera Attribution of Multi-Format Devices".
+    2. Long stabilized videos: These are additional data which were specifically captured for "Camera Fingerprint Extraction via Spatial Domain Averaged Frames".
 
 ## MIXED MEDIA DATASET
 The dataset contains images and videos from 108 cameras. Each camera contains images and videos of one or more resolutions.
@@ -30,3 +29,4 @@ camera fingerprints and try to match them with other fingerprints.
 For this experiment, we have collected stabilized videos from 5 cameras adding up to 260 minutes. 
 These cameras are named NYU_112-118.
 
+Please send an email to nyuad.mmd [at] gmail.com for accessing the datasets.
