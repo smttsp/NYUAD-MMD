@@ -27,6 +27,7 @@ Since other researchers may use the dataset for other purposes, we don't discard
 ## LONG STABILIZED VIDEOS
 For "Camera Fingerprint Extraction via Spatial Domain Averaged Frames", we have used long stabilized videos from which we create 
 camera fingerprints and try to match them with other fingerprints. 
+
 For this experiment, we have collected stabilized videos from 5 cameras adding up to 260 minutes. 
 These cameras are named NYU_112-118.
 
