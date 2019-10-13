@@ -30,4 +30,4 @@ camera fingerprints and try to match them with other fingerprints.
 For this experiment, we have collected stabilized videos from 5 cameras adding up to 260 minutes. 
 These cameras are named NYU_112-118.
 
-Please send an email to nyuad.mmd [at] gmail.com for accessing the datasets.
+Please send an email to `nyuad.mmd [at] gmail.com` for accessing the datasets.
