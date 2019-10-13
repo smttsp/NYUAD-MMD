@@ -3,7 +3,8 @@
 The shared dataset contains data collected for two different publications. 
 
     1. Mixed Media Dataset is collected for "Source Camera Attribution of Multi-Format Devices".
-    2. Long stabilized videos: These are additional data which were specifically captured for "Camera Fingerprint Extraction via Spatial Domain Averaged Frames".
+    2. Long stabilized videos: These are additional data which were specifically captured for 
+    "Camera Fingerprint Extraction via Spatial Domain Averaged Frames".
 
 ## MIXED MEDIA DATASET
 The dataset contains images and videos from 108 cameras. Each camera contains images and videos of one or more resolutions.
