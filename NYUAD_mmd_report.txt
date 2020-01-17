@@ -1,0 +1,948 @@
+C001_asus_z00ad
+	-->There are 8 image resolutions: 
+	2048x1152 has 66 images
+	2048x1536 has 52 images
+	2560x1440 has 96 images
+	2560x1920 has 49 images
+	3264x1836 has 43 images
+	3264x2448 has 60 images
+	4096x2304 has 56 images
+	4096x3072 has 72 images
+
+ 	-->There are 3 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+	640x480 has 2 videos
+------------------------------------ 
+C002_asus_z00ld
+	-->There are 1 image resolutions: 
+	4096x2304 has 52 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C003_blackberry_z10
+	-->There are 3 image resolutions: 
+	2448x2448 has 53 images
+	3264x1836 has 58 images
+	3264x2448 has 54 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1072 has 4 videos
+------------------------------------ 
+C004_coolpad_note3
+	-->There are 1 image resolutions: 
+	4208x3120 has 51 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C005_gionee_m2
+	-->There are 5 image resolutions: 
+	1280x960 has 8 images
+	1600x1200 has 7 images
+	2048x1536 has 7 images
+	320x240 has 19 images
+	640x480 has 13 images
+
+ 	-->There are 0 video resolutions: 
+------------------------------------ 
+C006_gionee_m5_lite
+	-->There are 2 image resolutions: 
+	1600x1200 has 56 images
+	640x480 has 79 images
+
+ 	-->There are 0 video resolutions: 
+------------------------------------ 
+C007_google_pixel
+	-->There are 1 image resolutions: 
+	4048x3036 has 55 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 2 videos
+------------------------------------ 
+C008_htc_desire_526gplus-i
+	-->There are 11 image resolutions: 
+	1024x768 has 55 images
+	1280x768 has 50 images
+	1280x960 has 51 images
+	1600x1200 has 54 images
+	2048x1536 has 52 images
+	2560x1920 has 29 images
+	2880x1728 has 50 images
+	320x240 has 50 images
+	3264x2448 has 49 images
+	3600x2160 has 57 images
+	640x480 has 67 images
+
+ 	-->There are 4 video resolutions: 
+	1280x720 has 1 videos
+	176x144 has 1 videos
+	1920x1088 has 2 videos
+	640x480 has 1 videos
+------------------------------------ 
+C009_htc_desire_526gplus-ii
+	-->There are 1 image resolutions: 
+	320x240 has 50 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1088 has 4 videos
+------------------------------------ 
+C010_htc_desire_620g
+	-->There are 1 image resolutions: 
+	3600x2160 has 56 images
+
+ 	-->There are 2 video resolutions: 
+	1280x768 has 2 videos
+	1920x1088 has 4 videos
+------------------------------------ 
+C011_htc_desire_626gplus
+	-->There are 4 image resolutions: 
+	1280x768 has 55 images
+	2880x1728 has 50 images
+	3600x2160 has 55 images
+	4160x2496 has 51 images
+
+ 	-->There are 4 video resolutions: 
+	1280x720 has 4 videos
+	176x144 has 2 videos
+	1920x1088 has 2 videos
+	640x480 has 2 videos
+------------------------------------ 
+C012_htc_desire_628
+	-->There are 4 image resolutions: 
+	1920x1088 has 1 images
+	3264x1824 has 21 images
+	4096x2304 has 20 images
+	4160x2368 has 20 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 4 videos
+------------------------------------ 
+C013_htc_desire_820s
+	-->There are 1 image resolutions: 
+	3328x1872 has 51 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1088 has 4 videos
+------------------------------------ 
+C014_htc_desire_826
+	-->There are 1 image resolutions: 
+	4224x2368 has 57 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C015_huawei_honor_holly
+	-->There are 6 image resolutions: 
+	1280x720 has 50 images
+	2048x1536 has 50 images
+	2560x1440 has 51 images
+	2560x1920 has 50 images
+	3264x2448 has 50 images
+	3328x1872 has 49 images
+
+ 	-->There are 2 video resolutions: 
+	1270x720 has 1 videos
+	636x360 has 1 videos
+------------------------------------ 
+C016_intex_aqua_power_plus
+	-->There are 2 image resolutions: 
+	3264x1840 has 4 images
+	4864x2736 has 51 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1088 has 4 videos
+------------------------------------ 
+C017_iphone4s
+	-->There are 1 image resolutions: 
+	3264x2448 has 76 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 2 videos
+------------------------------------ 
+C018_iphone5
+	-->There are 7 image resolutions: 
+	1795x1752 has 1 images
+	1847x1702 has 1 images
+	1917x1641 has 1 images
+	1944x1617 has 1 images
+	2448x2448 has 11 images
+	3264x2448 has 180 images
+	8032x2414 has 1 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 3 videos
+------------------------------------ 
+C019_iphone5s
+	-->There are 1 image resolutions: 
+	3264x2448 has 48 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C020_iphone5se
+	-->There are 2 image resolutions: 
+	3412x1920 has 1 images
+	4032x3024 has 49 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 4 videos
+	1920x1080 has 8 videos
+------------------------------------ 
+C021_iphone6
+	-->There are 1 image resolutions: 
+	3264x2448 has 47 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 2 videos
+------------------------------------ 
+C022_iphone6s
+	-->There are 1 image resolutions: 
+	3264x2448 has 50 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C023_iphone7
+	-->There are 3 image resolutions: 
+	3088x2320 has 6 images
+	3724x2096 has 1 images
+	4032x3024 has 51 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C024_le_x_509
+	-->There are 4 image resolutions: 
+	2560x1920 has 1 images
+	3264x2448 has 34 images
+	4096x2304 has 52 images
+	4160x3120 has 46 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1088 has 2 videos
+------------------------------------ 
+C025_le_x_526
+	-->There are 3 image resolutions: 
+	3264x1836 has 20 images
+	4608x2592 has 23 images
+	4608x3456 has 32 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 4 videos
+------------------------------------ 
+C026_lenovo_k3_note-i
+	-->There are 3 image resolutions: 
+	3120x3120 has 42 images
+	4096x2304 has 50 images
+	4160x3120 has 50 images
+
+ 	-->There are 3 video resolutions: 
+	1280x720 has 1 videos
+	1920x1088 has 2 videos
+	720x480 has 1 videos
+------------------------------------ 
+C027_lenovo_k3_note-ii
+	-->There are 1 image resolutions: 
+	4096x2304 has 50 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1088 has 4 videos
+------------------------------------ 
+C028_lenovo_k3_note-iii
+	-->There are 1 image resolutions: 
+	4160x3120 has 50 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1088 has 4 videos
+------------------------------------ 
+C029_lenovo_s90
+	-->There are 1 image resolutions: 
+	4096x2304 has 50 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C030_lenovo_vibe_k5_plus
+	-->There are 2 image resolutions: 
+	1920x1080 has 2 images
+	4160x3120 has 59 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C031_lenovo_vibe_p1
+	-->There are 1 image resolutions: 
+	4096x2304 has 51 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 2 videos
+------------------------------------ 
+C032_lumia_640_xl
+	-->There are 2 image resolutions: 
+	4176x3120 has 51 images
+	4208x2368 has 64 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C033_micromax_a107
+	-->There are 1 image resolutions: 
+	960x720 has 53 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1088 has 2 videos
+------------------------------------ 
+C034_micromax_e311
+	-->There are 13 image resolutions: 
+	1024x768 has 56 images
+	1280x768 has 59 images
+	1280x960 has 50 images
+	1600x1200 has 55 images
+	2048x1536 has 50 images
+	2560x1920 has 52 images
+	2880x1728 has 55 images
+	320x240 has 61 images
+	3264x2448 has 50 images
+	3600x2160 has 54 images
+	4096x3072 has 54 images
+	4160x3120 has 59 images
+	640x480 has 50 images
+
+ 	-->There are 4 video resolutions: 
+	1280x720 has 1 videos
+	176x144 has 1 videos
+	1920x1088 has 2 videos
+	640x480 has 1 videos
+------------------------------------ 
+C035_micromax_unite3_q372
+	-->There are 1 image resolutions: 
+	1600x1200 has 49 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1088 has 4 videos
+------------------------------------ 
+C036_motorola_moto_g3-i
+	-->There are 2 image resolutions: 
+	4160x2340 has 27 images
+	4160x3120 has 26 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 5 videos
+------------------------------------ 
+C037_motorola_moto_g3-ii
+	-->There are 1 image resolutions: 
+	4160x2340 has 53 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 4 videos
+------------------------------------ 
+C038_motorola_moto_g4-i
+	-->There are 1 image resolutions: 
+	4608x2592 has 58 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C039_motorola_moto_g4-ii
+	-->There are 4 image resolutions: 
+	3264x1836 has 56 images
+	3264x2448 has 60 images
+	4608x2592 has 51 images
+	4608x3456 has 55 images
+
+ 	-->There are 4 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 1 videos
+	640x360 has 1 videos
+	854x480 has 1 videos
+------------------------------------ 
+C040_motorola_moto_g4-iii
+	-->There are 1 image resolutions: 
+	4608x2592 has 48 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C041_motorola_moto_g5_plus-i
+	-->There are 1 image resolutions: 
+	4032x2268 has 57 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C042_motorola_moto_g5_plus-ii
+	-->There are 4 image resolutions: 
+	3264x1836 has 57 images
+	3264x2448 has 62 images
+	4032x2268 has 55 images
+	4032x3024 has 52 images
+
+ 	-->There are 4 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 3 videos
+	3840x2160 has 1 videos
+	640x480 has 1 videos
+------------------------------------ 
+C043_motorola_moto_x-i
+	-->There are 1 image resolutions: 
+	4320x2432 has 22 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 8 videos
+------------------------------------ 
+C044_motorola_moto_x-ii
+	-->There are 1 image resolutions: 
+	4618x3464 has 49 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 4 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C045_motorola_moto_x-iii
+	-->There are 2 image resolutions: 
+	4320x2432 has 1 images
+	5344x3006 has 50 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 4 videos
+------------------------------------ 
+C046_nexus_4
+	-->There are 1 image resolutions: 
+	3264x2448 has 70 images
+
+ 	-->There are 3 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 4 videos
+	720x480 has 1 videos
+------------------------------------ 
+C047_nexus_5-i
+	-->There are 2 image resolutions: 
+	3200x2368 has 16 images
+	3264x2448 has 34 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 2 videos
+------------------------------------ 
+C048_nexus_5-ii
+	-->There are 1 image resolutions: 
+	3264x2448 has 53 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 3 videos
+------------------------------------ 
+C049_nexus_5-iii
+	-->There are 1 image resolutions: 
+	3264x2448 has 51 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C050_nexus_6-i
+	-->There are 2 image resolutions: 
+	3840x2160 has 1 images
+	4160x3120 has 24 images
+
+ 	-->There are 2 video resolutions: 
+	1920x1080 has 2 videos
+	3840x2160 has 3 videos
+------------------------------------ 
+C051_nexus_6-ii
+	-->There are 1 image resolutions: 
+	4160x3120 has 100 images
+
+ 	-->There are 1 video resolutions: 
+	3840x2160 has 4 videos
+------------------------------------ 
+C052_nexus_6p
+	-->There are 1 image resolutions: 
+	4032x3024 has 78 images
+
+ 	-->There are 3 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 2 videos
+	3840x2160 has 3 videos
+------------------------------------ 
+C053_oneplus_2-i
+	-->There are 1 image resolutions: 
+	4160x3120 has 46 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 3 videos
+	1920x1080 has 2 videos
+------------------------------------ 
+C054_oneplus_2-ii
+	-->There are 3 image resolutions: 
+	3120x3120 has 54 images
+	3840x2160 has 55 images
+	4160x3120 has 52 images
+
+ 	-->There are 3 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 2 videos
+	3840x2160 has 1 videos
+------------------------------------ 
+C055_oneplus_3t
+	-->There are 3 image resolutions: 
+	3488x3488 has 50 images
+	4640x2610 has 50 images
+	4640x3480 has 51 images
+
+ 	-->There are 3 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 2 videos
+	3840x2160 has 1 videos
+------------------------------------ 
+C056_oneplus_one
+	-->There are 4 image resolutions: 
+	1920x1080 has 60 images
+	2048x1536 has 83 images
+	2592x1944 has 54 images
+	4160x3120 has 57 images
+
+ 	-->There are 4 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 1 videos
+	640x360 has 1 videos
+	854x480 has 1 videos
+------------------------------------ 
+C057_oneplus_x
+	-->There are 3 image resolutions: 
+	3120x3120 has 80 images
+	3840x2160 has 50 images
+	4160x3120 has 62 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 2 videos
+------------------------------------ 
+C058_oppo_a57-i
+	-->There are 1 image resolutions: 
+	4160x3120 has 51 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C059_oppo_a57-ii
+	-->There are 1 image resolutions: 
+	4160x3120 has 55 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C060_oppo_neo5
+	-->There are 2 image resolutions: 
+	1600x1200 has 58 images
+	3264x2448 has 67 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	640x480 has 1 videos
+------------------------------------ 
+C061_samsung_galaxy_a3
+	-->There are 1 image resolutions: 
+	4128x2322 has 63 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 6 videos
+------------------------------------ 
+C062_samsung_galaxy_a5
+	-->There are 2 image resolutions: 
+	2560x1440 has 1 images
+	4128x2322 has 56 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C063_samsung_galaxy_a7
+	-->There are 6 image resolutions: 
+	2160x2160 has 50 images
+	3088x3088 has 50 images
+	3264x1836 has 50 images
+	3264x2448 has 58 images
+	4128x2322 has 50 images
+	4128x3096 has 54 images
+
+ 	-->There are 4 video resolutions: 
+	1072x1072 has 1 videos
+	1280x720 has 1 videos
+	1920x1080 has 2 videos
+	640x480 has 1 videos
+------------------------------------ 
+C064_samsung_galaxy_a8
+	-->There are 1 image resolutions: 
+	3264x2448 has 48 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C065_samsung_galaxy_ace3
+	-->There are 1 image resolutions: 
+	2560x1536 has 20 images
+
+ 	-->There are 1 video resolutions: 
+	1280x720 has 5 videos
+------------------------------------ 
+C066_samsung_galaxy_e7-i
+	-->There are 2 image resolutions: 
+	4128x2322 has 53 images
+	4128x3096 has 38 images
+
+ 	-->There are 1 video resolutions: 
+	640x480 has 1 videos
+------------------------------------ 
+C067_samsung_galaxy_e7-ii
+	-->There are 1 image resolutions: 
+	4128x3096 has 25 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 2 videos
+------------------------------------ 
+C068_samsung_galaxy_grand2
+	-->There are 6 image resolutions: 
+	1280x720 has 50 images
+	2048x1152 has 90 images
+	2048x1536 has 39 images
+	3264x1836 has 50 images
+	3264x2448 has 54 images
+	640x480 has 35 images
+
+ 	-->There are 4 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+	320x240 has 2 videos
+	640x480 has 2 videos
+------------------------------------ 
+C069_samsung_galaxy_grand_prime
+	-->There are 1 image resolutions: 
+	3264x1836 has 50 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C070_samsung_galaxy_j5-i
+	-->There are 1 image resolutions: 
+	4128x2322 has 59 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C071_samsung_galaxy_j5-ii
+	-->There are 1 image resolutions: 
+	4128x2322 has 51 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C072_samsung_galaxy_j7
+	-->There are 1 image resolutions: 
+	4128x2322 has 60 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C073_samsung_galaxy_note
+	-->There are 1 image resolutions: 
+	3264x2448 has 50 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 2 videos
+------------------------------------ 
+C074_samsung_galaxy_note2
+	-->There are 1 image resolutions: 
+	3264x2448 has 62 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 6 videos
+------------------------------------ 
+C075_samsung_galaxy_note3
+	-->There are 2 image resolutions: 
+	1920x1080 has 2 images
+	4128x2322 has 50 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1440x1080 has 4 videos
+------------------------------------ 
+C076_samsung_galaxy_s4
+	-->There are 1 image resolutions: 
+	4128x2322 has 68 images
+
+ 	-->There are 3 video resolutions: 
+	1280x720 has 1 videos
+	1440x1080 has 1 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C077_samsung_galaxy_s5
+	-->There are 4 image resolutions: 
+	2976x2976 has 53 images
+	3264x2448 has 53 images
+	3984x2988 has 47 images
+	5312x2988 has 47 images
+
+ 	-->There are 4 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 1 videos
+	640x360 has 1 videos
+	854x480 has 1 videos
+------------------------------------ 
+C078_samsung_galaxy_s6edge-i
+	-->There are 5 image resolutions: 
+	2976x2976 has 30 images
+	3264x1836 has 33 images
+	3264x2448 has 32 images
+	3984x2988 has 35 images
+	5312x2988 has 188 images
+
+ 	-->There are 2 video resolutions: 
+	1920x1080 has 6 videos
+	3840x2160 has 2 videos
+------------------------------------ 
+C079_samsung_galaxy_s6edge-ii
+	-->There are 2 image resolutions: 
+	2592x1944 has 1 images
+	5312x2988 has 59 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 6 videos
+------------------------------------ 
+C080_samsung_galaxy_s6edge_plus
+	-->There are 0 image resolutions: 
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 7 videos
+------------------------------------ 
+C081_samsung_galaxy_s7
+	-->There are 1 image resolutions: 
+	4032x3024 has 52 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C082_samsung_galaxy_s8
+	-->There are 1 image resolutions: 
+	1776x1332 has 51 images
+
+ 	-->There are 2 video resolutions: 
+	1920x1080 has 2 videos
+	2560x1440 has 2 videos
+------------------------------------ 
+C083_samsung_galaxy_s8_plus
+	-->There are 1 image resolutions: 
+	4032x3024 has 76 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 1 videos
+------------------------------------ 
+C084_samsung_galaxy_s_duos
+	-->There are 1 image resolutions: 
+	2560x1920 has 20 images
+
+ 	-->There are 1 video resolutions: 
+	640x480 has 4 videos
+------------------------------------ 
+C085_sony_xperia_c3
+	-->There are 2 image resolutions: 
+	1920x1080 has 1 images
+	3104x1746 has 52 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C086_sony_xperia_m4_aqua
+	-->There are 1 image resolutions: 
+	3920x2204 has 53 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 3 videos
+------------------------------------ 
+C087_sony_xperia_z3p
+	-->There are 6 image resolutions: 
+	1920x1080 has 64 images
+	2048x1536 has 55 images
+	3264x2448 has 53 images
+	3840x2160 has 103 images
+	5248x2952 has 47 images
+	5248x3936 has 67 images
+
+ 	-->There are 3 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 2 videos
+	640x480 has 1 videos
+------------------------------------ 
+C088_vivo_v5
+	-->There are 2 image resolutions: 
+	4160x3120 has 63 images
+	5120x3840 has 3 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 1 videos
+	640x480 has 1 videos
+------------------------------------ 
+C089_xiaomi_redmi_2-i
+	-->There are 2 image resolutions: 
+	3200x2400 has 145 images
+	3264x1836 has 107 images
+
+ 	-->There are 4 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 1 videos
+	640x360 has 1 videos
+	854x480 has 1 videos
+------------------------------------ 
+C090_xiaomi_redmi_2-ii
+	-->There are 2 image resolutions: 
+	3200x2400 has 82 images
+	3264x1836 has 99 images
+
+ 	-->There are 0 video resolutions: 
+------------------------------------ 
+C091_xiaomi_redmi_3s_prime
+	-->There are 2 image resolutions: 
+	4160x2340 has 117 images
+	4160x3120 has 150 images
+
+ 	-->There are 4 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 1 videos
+	640x360 has 1 videos
+	854x480 has 1 videos
+------------------------------------ 
+C092_xiaomi_redmi_4
+	-->There are 2 image resolutions: 
+	4160x2340 has 103 images
+	4160x3120 has 117 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 1 videos
+	640x360 has 1 videos
+------------------------------------ 
+C093_xiaomi_redmi_note3-i
+	-->There are 1 image resolutions: 
+	4160x3120 has 50 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C094_xiaomi_redmi_note3-ii
+	-->There are 1 image resolutions: 
+	4608x3456 has 51 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C095_xiaomi_redmi_note3-iii
+	-->There are 1 image resolutions: 
+	4608x3456 has 55 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C096_xiaomi_redmi_note3-iv
+	-->There are 1 image resolutions: 
+	4608x3456 has 51 images
+
+ 	-->There are 1 video resolutions: 
+	1920x1080 has 2 videos
+------------------------------------ 
+C097_xiaomi_redmi_note3-v
+	-->There are 2 image resolutions: 
+	4608x2592 has 154 images
+	4608x3456 has 146 images
+
+ 	-->There are 3 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 2 videos
+	640x360 has 1 videos
+------------------------------------ 
+C098_xiaomi_redmi_note3-vi
+	-->There are 2 image resolutions: 
+	4608x2592 has 167 images
+	4608x3456 has 150 images
+
+ 	-->There are 3 video resolutions: 
+	1280x720 has 1 videos
+	1920x1080 has 2 videos
+	720x480 has 1 videos
+------------------------------------ 
+C099_xiaomi_redmi_note4-i
+	-->There are 1 image resolutions: 
+	4160x3120 has 50 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C100_xiaomi_redmi_note4-ii
+	-->There are 1 image resolutions: 
+	4160x3120 has 51 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C101_xiaomi_redmi_note4-iii
+	-->There are 1 image resolutions: 
+	4160x3120 has 47 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C102_xolo_black_1x
+	-->There are 1 image resolutions: 
+	4160x3120 has 46 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
+C103_yureka_ao5510
+	-->There are 1 image resolutions: 
+	4160x3120 has 50 images
+
+ 	-->There are 2 video resolutions: 
+	1280x720 has 2 videos
+	1920x1080 has 4 videos
+------------------------------------ 
