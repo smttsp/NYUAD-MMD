@@ -1,3 +1,7 @@
+    1. There are 103 cameras in the dataset. Below is the detailed information about cameras. 
+    2. The camera names should be correct but it required a lot of manual labor. So, please let me know if you see any error.
+    
+------------------------------------
 C001_asus_z00ad
 	-->There are 8 image resolutions: 
 	2048x1152 has 66 images
