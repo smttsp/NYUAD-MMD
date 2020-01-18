@@ -1,6 +1,6 @@
 # NEW YORK UNIVERSITY ABU DHABI - MIXED MEDIA DATASET
 
-The shared dataset contains data collected for two different publications. 
+This dataset contains data collected for two different publications. 
 
     1. Mixed Media Dataset is collected for "Source Camera Attribution of Multi-Format Devices".
     2. Long stabilized videos: These are additional data which were specifically captured for 
