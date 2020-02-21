@@ -29,6 +29,8 @@ The dataset contains a total of N images, and M videos. However, in our experime
 
 In this repository we are sharing the code to replicate the used dataset and results.
 
+Note: Some of the videos may not be opened with Matlab. I overcame this issue by installing K-Lite Codec Pack. 
+
 ## LONG STABILIZED VIDEOS
 For "Camera Fingerprint Extraction via Spatial Domain Averaged Frames", along with mixed media dataset, we have collected long stabilized videos from 5 cameras adding up to 260 minutes. 
 
